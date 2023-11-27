@@ -5,3 +5,4 @@ Simple Tip Calculator mock;
 contributors:
 
 - Elena
+- Zeinab
